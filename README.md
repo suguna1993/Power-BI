@@ -9,5 +9,5 @@
   4.No of Students per Qualification
   5.Percentage of Withdrawn cases
   6.Time series analysis of active and withdrawn classes
-<img width="2700" height="794" alt="image" src="https://github.com/user-attachments/assets/dfefce59-1079-4f48-90bb-6a25eb7baacd" />
+
 
